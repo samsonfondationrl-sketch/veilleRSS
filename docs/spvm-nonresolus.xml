@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>SPVM — Meurtres non résolus (cas récemment publiés)</title>
+<link>https://spvm.qc.ca/fr/PersonnesRecherchees/NonResolus</link>
+<description>Flux RSS généré à partir de la page Meurtres non résolus du SPVM (titres + liens).</description>
+<lastBuildDate>Thu, 09 Apr 2026 21:06:59 +0000</lastBuildDate>
+<item>
+<title>Elisha Vernon Davis Date de l’événement : 3 décembre 2018</title>
+<link>https://spvm.qc.ca/fr/PersonnesRecherchees/NonResolus/16</link>
+<guid isPermaLink="false">0ab336bdcb129263b108a2f629c4f1e1aeb4b4e3</guid>
+</item>
+<item>
+<title>Janet Kuchinsky Date de l’événement : 11 juillet 1999</title>
+<link>https://spvm.qc.ca/fr/PersonnesRecherchees/NonResolus/15</link>
+<guid isPermaLink="false">891c28edc4e7ecd973bf0fc3fba8b8431e2138ea</guid>
+</item>
+<item>
+<title>Catherine Daviau Date de l’événement : 11 décembre 2008</title>
+<link>https://spvm.qc.ca/fr/PersonnesRecherchees/NonResolus/12</link>
+<guid isPermaLink="false">86471aea0cbe96052de5fe878bb9976d7dd5d0d8</guid>
+</item>
+</channel>
+</rss>
