@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Disparus-Canada — Québec (FR) — Flux combiné</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/results-resultats.jsf?lang=fr</link>
+<description>Flux RSS combiné (MPA + MPC + UR), filtré sur le Québec, généré depuis les pages de résultats</description>
+<lastBuildDate>Thu, 09 Apr 2026 20:41:19 +0000</lastBuildDate>
+<item>
+<title>[MPA] Recherche</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/search-recherche.jsf</link>
+<guid isPermaLink="false">16d1f6680952f2bd5e75f0a297f1d09377044dde</guid>
+<category>MPA</category>
+</item>
+<item>
+<title>[MPA] ALLAN, Walter D</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2017045193&amp;id=16&amp;lang=fr</link>
+<guid isPermaLink="false">4754084dbab5351fcff9ff2e398403204ef4db58</guid>
+<category>MPA</category>
+</item>
+<item>
+<title>[MPA] AMJADI, Behnam</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014002270&amp;id=28&amp;lang=fr</link>
+<guid isPermaLink="false">82f845c49ed6261e83372733d4a5d259d7d8b6ab</guid>
+<category>MPA</category>
+</item>
+<item>
+<title>[MPC] ALBERT, Francis</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2012020104&amp;id=4&amp;lang=fr</link>
+<guid isPermaLink="false">d536cb5fc8aeb453034d0de426536b90de21a69f</guid>
+<category>MPC</category>
+</item>
+<item>
+<title>[MPC] ALEXANDER, Shannon</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2012020142&amp;id=5&amp;lang=fr</link>
+<guid isPermaLink="false">7129c0d97b317d11835a0d80b410ae15763e66ab</guid>
+<category>MPC</category>
+</item>
+<item>
+<title>[MPC] AMBROISE, David</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014002936&amp;id=6&amp;lang=fr</link>
+<guid isPermaLink="false">be23d1f53faa8c1bc00a28c86e085e77bf814e43</guid>
+<category>MPC</category>
+</item>
+<item>
+<title>[MPC] BESSETTE, Rene</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=1999108210&amp;id=17&amp;lang=fr</link>
+<guid isPermaLink="false">9019f1983099df857f6068f4e8fdf736d15d5e95</guid>
+<category>MPC</category>
+</item>
+<item>
+<title>[UR] Féminin, 25 - 45</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001136&amp;id=5&amp;lang=fr</link>
+<guid isPermaLink="false">6e93411ad61137cc5b9e7a9d9763b17e356ec728</guid>
+<category>UR</category>
+</item>
+<item>
+<title>[UR] Masculin, 16 - 25</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2021023515&amp;id=16&amp;lang=fr</link>
+<guid isPermaLink="false">1b1c6cdfc64b0b09653b4b83db8a8b0a59433f45</guid>
+<category>UR</category>
+</item>
+<item>
+<title>[UR] Masculin, 30 - 40</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001173&amp;id=24&amp;lang=fr</link>
+<guid isPermaLink="false">c469aaa55a140884947d720a8a4953baf749a316</guid>
+<category>UR</category>
+</item>
+<item>
+<title>[UR] Masculin, 40 - 45</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001044&amp;id=29&amp;lang=fr</link>
+<guid isPermaLink="false">7ea68e2e450397a0d6c637a19f97a2fc4fa2c11f</guid>
+<category>UR</category>
+</item>
+</channel>
+</rss>
