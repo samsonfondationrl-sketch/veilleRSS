@@ -4,7 +4,7 @@
 <title>Disparus-Canada — Québec (FR) — Flux combiné</title>
 <link>https://www.services.rcmp-grc.gc.ca/missing-disparus/results-resultats.jsf?lang=fr</link>
 <description>Flux RSS combiné (MPA + MPC + UR), filtré sur le Québec, généré depuis les pages de résultats</description>
-<lastBuildDate>Sun, 19 Jul 2026 11:06:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 20 Jul 2026 12:11:56 +0000</lastBuildDate>
 <item>
 <title>[MPA] Recherche</title>
 <link>https://www.services.rcmp-grc.gc.ca/missing-disparus/search-recherche.jsf</link>
@@ -48,21 +48,21 @@
 <category>MPC</category>
 </item>
 <item>
-<title>[UR] Masculin, 25</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2015011649&amp;id=3&amp;lang=fr</link>
-<guid isPermaLink="false">6229a36af8f67398b925d2251c0ed5e803ab3feb</guid>
+<title>[UR] Masculin, 16 - 25</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2021023515&amp;id=11&amp;lang=fr</link>
+<guid isPermaLink="false">518c130736584bbb6ddc4a1002b4ac900c19a092</guid>
 <category>UR</category>
 </item>
 <item>
-<title>[UR] Masculin, 16 - 25</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2021023515&amp;id=9&amp;lang=fr</link>
-<guid isPermaLink="false">75d4b6af9c6a7c98e82ebd6f0ec86a761a52c91e</guid>
+<title>[UR] Masculin, 25</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2015011649&amp;id=20&amp;lang=fr</link>
+<guid isPermaLink="false">98c88028589e58118d2c138de8a659d020c0b36d</guid>
 <category>UR</category>
 </item>
 <item>
 <title>[UR] Féminin, 25 - 45</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001136&amp;id=17&amp;lang=fr</link>
-<guid isPermaLink="false">4575f915131262fe5a0e119714c4417024765953</guid>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001136&amp;id=24&amp;lang=fr</link>
+<guid isPermaLink="false">84d3e99aeaae83f9aad74afbee4b6caf23b22c43</guid>
 <category>UR</category>
 </item>
 </channel>
