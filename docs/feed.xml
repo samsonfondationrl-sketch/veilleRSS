@@ -4,7 +4,7 @@
 <title>Disparus-Canada — Québec (FR) — Flux combiné</title>
 <link>https://www.services.rcmp-grc.gc.ca/missing-disparus/results-resultats.jsf?lang=fr</link>
 <description>Flux RSS combiné (MPA + MPC + UR), filtré sur le Québec, généré depuis les pages de résultats</description>
-<lastBuildDate>Tue, 17 Nov 2026 18:54:41 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 18:32:36 +0000</lastBuildDate>
 <item>
 <title>[MPA] Recherche</title>
 <link>https://www.services.rcmp-grc.gc.ca/missing-disparus/search-recherche.jsf</link>
@@ -48,39 +48,33 @@
 <category>MPC</category>
 </item>
 <item>
-<title>[UR] Masculin, 40 - 45</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001044&amp;id=3&amp;lang=fr</link>
-<guid isPermaLink="false">cb6ae972bca5cf843aeead63e9970b5463afcb8f</guid>
-<category>UR</category>
-</item>
-<item>
 <title>[UR] Féminin, 25 - 45</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001136&amp;id=7&amp;lang=fr</link>
-<guid isPermaLink="false">4cba7daf177ed23e383a16137a8dfdbc35d16e30</guid>
-<category>UR</category>
-</item>
-<item>
-<title>[UR] Masculin, 16 - 25</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2021023515&amp;id=16&amp;lang=fr</link>
-<guid isPermaLink="false">1b1c6cdfc64b0b09653b4b83db8a8b0a59433f45</guid>
-<category>UR</category>
-</item>
-<item>
-<title>[UR] Masculin, 25</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2015011649&amp;id=20&amp;lang=fr</link>
-<guid isPermaLink="false">98c88028589e58118d2c138de8a659d020c0b36d</guid>
-<category>UR</category>
-</item>
-<item>
-<title>[UR] Masculin, 30 - 40</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001173&amp;id=27&amp;lang=fr</link>
-<guid isPermaLink="false">b30ec8596989de50dcfce2d25f015a9c9c73b9a0</guid>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001136&amp;id=5&amp;lang=fr</link>
+<guid isPermaLink="false">6e93411ad61137cc5b9e7a9d9763b17e356ec728</guid>
 <category>UR</category>
 </item>
 <item>
 <title>[UR] Inconnu, 30 - 50</title>
-<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2020051410&amp;id=28&amp;lang=fr</link>
-<guid isPermaLink="false">2fa46eb33b30d6b214c294176f9eaf200c198c76</guid>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2020051410&amp;id=14&amp;lang=fr</link>
+<guid isPermaLink="false">8f2e866bd96858170cf9b13615168e7636a53d54</guid>
+<category>UR</category>
+</item>
+<item>
+<title>[UR] Masculin, 16 - 25</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2021023515&amp;id=15&amp;lang=fr</link>
+<guid isPermaLink="false">8bd8a30561b8a1290e727bba139bea8454d5634e</guid>
+<category>UR</category>
+</item>
+<item>
+<title>[UR] Masculin, 25</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2015011649&amp;id=19&amp;lang=fr</link>
+<guid isPermaLink="false">adefdb9fb1f53307f566d303524d519617efb962</guid>
+<category>UR</category>
+</item>
+<item>
+<title>[UR] Masculin, 40 - 45</title>
+<link>https://www.services.rcmp-grc.gc.ca/missing-disparus/case-dossier.jsf?case=2014001044&amp;id=29&amp;lang=fr</link>
+<guid isPermaLink="false">7ea68e2e450397a0d6c637a19f97a2fc4fa2c11f</guid>
 <category>UR</category>
 </item>
 </channel>
